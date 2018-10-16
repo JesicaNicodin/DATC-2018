@@ -1,0 +1,3 @@
+https://en.wikipedia.org/wiki/OAuth
+https://www.csoonline.com/article/3216404/authentication/what-is-oauth-how-the-open-authorization-framework-works.html
+https://oauth.net/2/
