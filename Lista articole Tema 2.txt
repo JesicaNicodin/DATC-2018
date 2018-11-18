@@ -1,0 +1,3 @@
+http://basho.com/resources/document-databases/
+https://rria.ici.ro/wp-content/uploads/2012/12/06-art.-Ularu-si-Puican-revizuit.pdf
+https://stackify.com/what-is-azure-cosmos-db/
